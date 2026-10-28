@@ -1,4 +1,4 @@
-# Gen QrR 🔳
+# Gen QR 🔳
 
 A Python-based QR code generator for website URLs and UPI payments, built with Flask, SQLite, and an interactive Jupyter Notebook dashboard.
 
